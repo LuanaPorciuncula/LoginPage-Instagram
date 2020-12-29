@@ -33,4 +33,13 @@ body {
 .instagram-phone img {
     height: 40rem;
     width: 29rem;
- }
+}
+
+.instagram-continue {
+    display: flex;
+    align-items: center; 
+    justify-content: space-around;
+    flex-direction: column;
+    width: 50%;
+    min-height: 34rem;
+}
