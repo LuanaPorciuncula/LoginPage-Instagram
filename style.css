@@ -94,3 +94,29 @@ body {
 .blue-link {
     color: #0095f6;
 }
+
+.get-the-app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    padding: 1.3rem 0;
+}
+
+.downloads {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    padding: 1rem;
+}
+
+.app-download {
+    height: 3rem;
+    width: 10rem;
+}
+
+.app-download img {
+    height: 3rem;
+}
